@@ -1,0 +1,2 @@
+# Sem dependências externas.
+# Os scripts utilizam apenas a biblioteca padrão do Python.
